@@ -1,5 +1,5 @@
 title = "Resident Evil: The Mercenaries 3D"
-description = "survival horror arena with all characters resident evils 4 and 5"
+description = "Resident Evil: The Mercenaries 3D is a third-person shooter video game developed by Capcom for the Nintendo 3DS and the 18th installment of the Resident Evil series. A combination of the "Mercenaries" minigames featured in Resident Evil 4 and Resident Evil 5, players must defeat as many enemies as possible within a set time limit."
 needs_system_files = false
 needs_shared_font = false
 
@@ -13,7 +13,7 @@ title = "0004000000035900"
 compatibility = "5"
 date = "2017-09-26"
 version = "HEAD-0c20da7"
-cpu = "intel core i5-3570hq"
-gpu = "geforce gtx 650"
-os = "windows 10 15063"
+cpu = "Intel Core i5-3570hq"
+gpu = "Nvidia Geforce GTX 650"
+os = "Windows 10 15063"
 author = "eclenaeu"
