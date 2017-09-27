@@ -5,7 +5,7 @@ needs_shared_font = false
 
 [[releases]]
 title = "0004000000035900"
-region = "usa"
+region = "USA"
 release_date = "2011-06-28"
 
 [[testcases]]
