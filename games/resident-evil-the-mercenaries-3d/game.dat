@@ -1,0 +1,19 @@
+title = "Resident Evil: The Mercenaries 3D"
+description = "survival horror arena with all characters resident evils 4 and 5"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000035900"
+region = "usa"
+release_date = "2011-06-28"
+
+[[testcases]]
+title = "0004000000035900"
+compatibility = "5"
+date = "2017-09-26"
+version = "HEAD-0c20da7"
+cpu = "intel core i5-3570hq"
+gpu = "geforce gtx 650"
+os = "windows 10 15063"
+author = "eclenaeu"
