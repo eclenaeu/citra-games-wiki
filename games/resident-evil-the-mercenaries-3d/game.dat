@@ -4,9 +4,19 @@ needs_system_files = false
 needs_shared_font = false
 
 [[releases]]
+title = "0004000000043E00"
+region = "jpn"
+release_date = "2011-06-02"
+
+[[releases]]
 title = "0004000000035900"
-region = "USA"
+region = "usa"
 release_date = "2011-06-28"
+
+[[releases]]
+title = "0004000000038B00"
+region = "eur"
+release_date = "2011-07-01"
 
 [[testcases]]
 title = "0004000000035900"
@@ -16,4 +26,4 @@ version = "HEAD-0c20da7"
 cpu = "Intel Core i5-3570hq"
 gpu = "Nvidia Geforce GTX 650"
 os = "Windows 10 15063"
-author = "eclenaeu"
+author = "Eclenaeu"
