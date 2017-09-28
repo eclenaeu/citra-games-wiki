@@ -20,7 +20,7 @@ release_date = "2011-07-01"
 
 [[testcases]]
 title = "0004000000035900"
-compatibility = "4"
+compatibility = "2"
 date = "2017-09-27"
 version = "HEAD-7f202a6"
 cpu = "Intel Core i5-3570HQ"
